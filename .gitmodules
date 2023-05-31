@@ -13,3 +13,8 @@
 	url = https://github.com/economic/epidatatools
 	shallow = true
 	registered = true
+[submodule "realtalk"]
+	path = realtalk
+	url = https://github.com/economic/realtalk
+	shallow = true
+	registered = true
