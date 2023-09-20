@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/economic/universe
-	shallow = true
 	branch = HEAD
-[submodule "epiextractr"]
-	path = epiextractr
-	url = https://github.com/economic/epiextractr
-	shallow = true
-	registered = true
 [submodule "epidatatools"]
 	path = epidatatools
 	url = https://github.com/economic/epidatatools
-	shallow = true
-	registered = true
+[submodule "epiextractr"]
+	path = epiextractr
+	url = https://github.com/economic/epiextractr
 [submodule "realtalk"]
 	path = realtalk
 	url = https://github.com/economic/realtalk
-	shallow = true
-	registered = true
