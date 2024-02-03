@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/economic/universe
+	url = https://github.com/economic/economic.r-universe.dev
 	branch = HEAD
 [submodule "epidatatools"]
 	path = epidatatools
