@@ -11,6 +11,3 @@
 [submodule "realtalk"]
 	path = realtalk
 	url = https://github.com/economic/realtalk
-[submodule "swadlr"]
-	path = swadlr
-	url = https://github.com/economic/swadlr
