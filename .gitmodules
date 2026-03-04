@@ -8,6 +8,9 @@
 [submodule "epiextractr"]
 	path = epiextractr
 	url = https://github.com/economic/epiextractr
+[submodule "epitargets"]
+	path = epitargets
+	url = https://github.com/economic/epitargets
 [submodule "realtalk"]
 	path = realtalk
 	url = https://github.com/economic/realtalk
