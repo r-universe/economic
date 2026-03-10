@@ -11,6 +11,9 @@
 [submodule "epitargets"]
 	path = epitargets
 	url = https://github.com/economic/epitargets
+[submodule "prefab"]
+	path = prefab
+	url = https://github.com/economic/prefab
 [submodule "realtalk"]
 	path = realtalk
 	url = https://github.com/economic/realtalk
