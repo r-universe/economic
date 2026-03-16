@@ -14,6 +14,9 @@
 [submodule "epitemplate"]
 	path = epitemplate
 	url = https://github.com/economic/epitemplate
+[submodule "epiverse"]
+	path = epiverse
+	url = https://github.com/economic/epiverse
 [submodule "prefab"]
 	path = prefab
 	url = https://github.com/economic/prefab
