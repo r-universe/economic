@@ -5,6 +5,7 @@
 [submodule "epidatatools"]
 	path = epidatatools
 	url = https://github.com/economic/epidatatools
+	branch = *release
 [submodule "epiextractr"]
 	path = epiextractr
 	url = https://github.com/economic/epiextractr

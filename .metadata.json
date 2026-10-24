@@ -1,5 +1,9 @@
 [
   {
+    "package": "epidatatools",
+    "releasetag": true
+  },
+  {
     "package": "realtalk",
     "releasetag": true
   }
