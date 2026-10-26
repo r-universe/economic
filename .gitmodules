@@ -5,7 +5,7 @@
 [submodule "epidatatools"]
 	path = epidatatools
 	url = https://github.com/economic/epidatatools
-	branch = *release
+	branch = v2.0.0
 [submodule "epiextractr"]
 	path = epiextractr
 	url = https://github.com/economic/epiextractr
@@ -24,7 +24,7 @@
 [submodule "realtalk"]
 	path = realtalk
 	url = https://github.com/economic/realtalk
-	branch = *release
+	branch = v2026.10.14
 [submodule "swadlr"]
 	path = swadlr
 	url = https://github.com/economic/swadlr
