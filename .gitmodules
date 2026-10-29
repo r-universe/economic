@@ -24,7 +24,7 @@
 [submodule "realtalk"]
 	path = realtalk
 	url = https://github.com/economic/realtalk
-	branch = v2026.10.14
+	branch = v2026.10.29
 [submodule "swadlr"]
 	path = swadlr
 	url = https://github.com/economic/swadlr
